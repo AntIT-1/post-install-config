@@ -50,7 +50,7 @@ Configure a new team called Level II support. Admin Panel -> Agents -> Teams. Te
 ![image](https://github.com/AntIT-1/post-install-config/assets/141161539/c8fca03a-9aac-4b27-993d-516b1e112399)
 
 
-Allow anyone to create tickets. Go to Admin Panel -> Settings -> User Settings. Registration Required: Require registration and login to create tickets. Enabling this will allow anyone to create tickets so if any user is having a technical issue, they can create and submit a ticket so it can be resolved. Once it gets created, it will added to the queue then assigned to an agent by the queue manager. 
+Allow anyone to create tickets. Go to Admin Panel -> Settings -> User Settings. Make sure this is unchecked! Registration Required: Require registration and login to create tickets. Enabling this will allow anyone to create tickets so if any user is having a technical issue, they can create and submit a ticket so it can be resolved. Once it gets created, it will added to the queue then assigned to an agent by the queue manager. 
 
 ![image](https://github.com/AntIT-1/post-install-config/assets/141161539/5e6bbedc-a59b-494d-b17a-a911402bd0b7)
 
