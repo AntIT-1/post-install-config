@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Now that osTicket was installed, it is time to setup admins, agents and roles. Click admin panel-> agents-> roles. 
+Now that osTicket is installed, it's time to setup admins, agents and roles. Click admin panel-> agents-> roles. 
 
 ![image](https://github.com/AntIT-1/post-install-config/assets/141161539/4c4a5a5f-4d3f-42b9-8bea-67ffbc37aea1)
 
